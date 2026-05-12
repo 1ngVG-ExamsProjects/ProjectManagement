@@ -6,7 +6,7 @@ Elaborato per l'esame di Project Management, pubblicato come sito VitePress.
 
 Il sito viene pubblicato tramite GitHub Pages all'indirizzo:
 
-**https://1ngvg-examsprojects.github.io/ProjectManagement/**
+**https://vg-university.github.io/ProjectManagement/**
 
 
 ## Versione Originale Google Doc
