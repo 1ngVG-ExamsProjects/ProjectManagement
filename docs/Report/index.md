@@ -1,6 +1,7 @@
 # EcoConn Report
 
-Il documento originale è stato suddiviso seguendo la struttura della tabella dei contenuti.
+L'elaborato è strutturato per seguire in modo ordinato e dettagliato gli argmomenti del corso (e dello sviluppo di un progetto), partendo dalla fase di ideazione dell'idea fino ad arrivare alla delivery. \
+Di seguito la suddivisione in capitoli (ogni capitolo rappresenta una fase di progetto).
 
 ## Capitoli principali
 
@@ -11,7 +12,5 @@ Il documento originale è stato suddiviso seguendo la struttura della tabella de
 - [Monitor & Controlling](./monitor-controlling/)
 - [Closing](./closing/)
 
-## Note
 
-- Le appendici sono state mantenute sotto il capitolo di riferimento.
-- I riferimenti immagine embedded in base64 del file esportato sono stati esclusi dalle nuove pagine.
+
