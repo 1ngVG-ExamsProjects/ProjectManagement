@@ -1,0 +1,2 @@
+# Issue log
+Grazie all’utilizzo di GitHub, tutte le issues aperte e chiuse vengono automaticamente tracciate, consentendo di monitorare problemi, richieste di modifica e delle relative risoluzioni. Tali informazioni vengono poi formalizzate  all’interno della Issue Log, che riporta per ciascuna issue: ID, data di apertura, data di chiusura, descrizione sintetica, impatto sul progetto, responsabile assegnato, stato di avanzamento e link diretto all’issue su GitHub.

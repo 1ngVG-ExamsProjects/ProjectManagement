@@ -1,0 +1,45 @@
+.vp-doc img {
+  border-radius: 12px;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
+}
+
+.report-image-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.report-image-grid--two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.report-image-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.report-image-grid img,
+.report-image-single img {
+  display: block;
+  inline-size: 100%;
+  block-size: auto;
+  margin: 0;
+  background: #fff;
+}
+
+.report-image-single {
+  margin: 1.25rem 0 0.5rem;
+}
+
+.report-image-caption {
+  margin: 0.25rem 0 1.5rem;
+  color: var(--vp-c-text-2);
+  font-size: 0.95rem;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .report-image-grid--two,
+  .report-image-grid--three {
+    grid-template-columns: 1fr;
+  }
+}
